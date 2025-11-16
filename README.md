@@ -8,10 +8,10 @@ Run these commands on your Ubuntu 22.04+ or Debian 12+ server:
 
 ```bash
 # Download latest release
-wget https://github.com/jdmays13/issyx-releases/releases/download/v2.5.0/issyx-v2.5.0.tar.gz
+wget https://github.com/jdmays13/issyx-releases/releases/download/v2.5.1/issyx-v2.5.1.tar.gz
 
 # Extract
-tar -xzf issyx-v2.5.0.tar.gz
+tar -xzf issyx-v2.5.1.tar.gz
 cd issyx-imaging-platform
 
 # Install
@@ -47,6 +47,7 @@ See the full documentation in the release package for detailed instructions.
 
 | Version | Date | Notes |
 |---------|------|-------|
+| [v2.5.1](https://github.com/jdmays13/issyx-releases/releases/tag/v2.5.1) | November 2025 | Simplified setup wizard, DHCP configuration, browser caching fixes |
 | [v2.5.0](https://github.com/jdmays13/issyx-releases/releases/tag/v2.5.0) | November 2025 | Standalone installer, auto-configuration |
 
 ## Support
